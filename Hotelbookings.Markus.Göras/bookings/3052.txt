@@ -1,0 +1,5 @@
+Booking Nr: 3052
+Name: Tiger
+Room: Cat-room
+Booked dates: 1, 2, 3, 
+Number of nights: 3

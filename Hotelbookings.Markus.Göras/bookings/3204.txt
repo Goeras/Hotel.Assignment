@@ -1,0 +1,5 @@
+Booking Nr: 3204
+Name: Jens
+Room: Cat-room
+Booked dates: 13, 14, 15, 
+Number of nights: 3
