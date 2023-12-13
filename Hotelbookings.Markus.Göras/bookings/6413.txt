@@ -1,5 +1,0 @@
-Booking Nr: 6413
-Name: Tiffany
-Room: Cat-room
-Booked dates: 7, 8, 9, 
-Number of nights: 3

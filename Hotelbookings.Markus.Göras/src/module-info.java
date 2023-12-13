@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Hotelbookings.Markus.Göras {
-}

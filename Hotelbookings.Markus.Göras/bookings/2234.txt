@@ -1,5 +1,0 @@
-Booking Nr: 2234
-Name: Jerry
-Room: Cat-room
-Booked dates: 10, 11, 12, 
-Number of nights: 3
